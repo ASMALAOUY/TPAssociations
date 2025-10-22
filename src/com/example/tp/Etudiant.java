@@ -1,5 +1,5 @@
 //exercice1
-/*package com.example.tp;
+package com.example.tp;
 
 import java.util.Arrays;
 
@@ -41,8 +41,8 @@ public class Etudiant {
 	public void afficheNotes() {
 		System.out.println("notes de "+nom +""+prenom+":");
 		for(int i=0;i<nbNotes;i++) {
-			System.out.println(notes[i]);
-			if(i<nbNotes-1)System.out.println(",");
+			System.out.print(notes[i]);
+			if(i<nbNotes-1)System.out.print(",");
 		}
 		System.out.println();
 	}
@@ -55,7 +55,7 @@ public class Etudiant {
 	           "]";
 	}
 }
-*/
+/*
 package com.example.tp;
 
 public class Etudiant {
@@ -102,3 +102,4 @@ public class Etudiant {
                "]";
     }
 }
+*/

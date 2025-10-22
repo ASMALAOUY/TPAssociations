@@ -1,5 +1,5 @@
 //EXERCICE1
-/*package com.example.tp;
+package com.example.tp;
 
 
 public class Main {
@@ -10,16 +10,16 @@ public class Main {
 	e1.ajouterNote(14.50);
 	e1.ajouterNote(15.50);
 	e1.ajouterNote(10.0);
-	e1.ajouterNote(11.50);
-	e1.ajouterNote(9.50);
-	e1.ajouterNote(17.75);
+	e2.ajouterNote(11.50);
+	e2.ajouterNote(9.50);
+	e2.ajouterNote(17.75);
 	e1.afficheNotes();
-    System.out.println(e1);
+    System.out.print(e1);
     e2.afficheNotes();
-    System.out.println(e2);
+    System.out.print(e2);
 	}
 }
-*/
+/*
 //EXERCICE2
 package com.example.tp;
 
@@ -62,3 +62,4 @@ public class Main {
         System.out.println("Détail de e3 : " + e3);
     }
 }
+*/
